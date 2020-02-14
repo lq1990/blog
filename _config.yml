@@ -6,8 +6,8 @@
 title: 文刀的博客
 subtitle: ''
 description: ''
-keywords:
-author: LQ
+keywords: 博客
+author: 刘强
 language: en
 timezone: ''
 
@@ -100,7 +100,7 @@ theme: icarus
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: root@39.105.96.93:/var/repo/hexo_static
+  repo: root@39.105.96.93:/var/repo/blog.git
   branch: master
 
 
